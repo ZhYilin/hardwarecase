@@ -8,6 +8,6 @@ The PCB is fixed on the bottom plate, then the pins are soldered on the PCB, the
 <img src="https://user-images.githubusercontent.com/54718648/164107370-da0e841a-b7b1-4075-9e09-3157d4803bec.jpg" width="200" height="200">
 
 </p>      
-<p align="center">                                                                                                                                      ，。
-the simulation of camera hardware part
+<p align="center">                                                                                                                                    
+The simulation of camera hardware part
 </p>                                                                                                                                             
